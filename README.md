@@ -1,6 +1,6 @@
 # Chatbot for Technical Support and Document Retrieval
 
-This is a Python script that implements a chatbot capable of providing technical support and retrieving information from manuals using OpenAI's GPT-3.5 model. The chatbot can answer questions based on the content of PDF manuals and provide relevant information.
+This is a Python prototype to use OpenAI model to generate response based on user prompt and your own files.
 
 ## Features
 
@@ -35,14 +35,3 @@ This is a Python script that implements a chatbot capable of providing technical
 - `details`: Toggle details in responses.
 - `breadth`: Set page search breadth.
 
-## Note
-
-- The script might require administrative access for reading and writing files.
-- Ensure you have the necessary permissions for the script directory.
-- The script uses OpenAI's GPT-3.5 model, and you need a valid API key.
-
-## Contributors
-
-- [Hou Kin Wan](https://github.com/houkinwan)
-
-Feel free to contribute and improve the chatbot's functionality!# Manual_GPThy
