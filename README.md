@@ -1,4 +1,4 @@
-# Chatbot for Technical Support and Document Retrieval
+# ChatGPT with Own Documents retrieval
 
 This is a Python prototype to use OpenAI model to generate response based on user prompt and your own files.
 
